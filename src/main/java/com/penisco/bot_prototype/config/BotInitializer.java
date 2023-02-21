@@ -30,5 +30,7 @@ public class BotInitializer {
         catch (TelegramApiException e) {
            // log.error("Error occurred: " + e.getMessage());
         }
+        
+        
     }
 }
